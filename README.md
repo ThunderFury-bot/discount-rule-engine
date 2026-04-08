@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Discount Rule Engine — REST API
 
 A pluggable business rules engine for e-commerce discounts, exposed as a Flask REST API. Implements the Strategy pattern with priority-based rule evaluation.
@@ -1325,3 +1326,7 @@ Tested with Python 3.13 on Windows 10
 ## License
 
 Assignment project.
+=======
+# discount-rule-engine
+Discount Rule Engine REST API using Flask
+>>>>>>> d93cbda10ff46e9a9dec3238e03312b181909a8a
